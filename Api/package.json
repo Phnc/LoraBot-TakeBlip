@@ -1,0 +1,26 @@
+{
+  "name": "lorabot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phnc/LoraBot-API.git"
+  },
+  "author": "Paulo Cavalcanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phnc/LoraBot-API/issues"
+  },
+  "homepage": "https://github.com/Phnc/LoraBot-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
